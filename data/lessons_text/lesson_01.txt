@@ -1,0 +1,97 @@
+Numbers between two consecutive Tens
+
+Numbers between two consecutive Hundreds
+
+ARITHMETICis the discipline that studies numbers; the relationships between them and the operations with them. Arithmetic is the art of skillful calculation.
+
+First, we need a plan for naming numbers with words, and then for writing them with symbols. That is called a system of numeration. Numeration is the foundation upon which arithmetic is built and expressed.
+
+The current system, which is in worldwide use, is the decimal system. That means it is based on what are called thepowers of 10.Decemin Latin means 10.
+
+We can only count things of the same kind, that is, that have the same name.
+
+"One dollar, two dollars, three dollars."
+
+"One apple, two apples, three apples."
+
+"One ten, two tens, three tens."
+
+Whatever has that name is theunit.  It is what we are calling one.  Counting is determining how many of those units are contained in the whole.
+
+Tomeasurewe must adopt a unit of the same kind as that which we are measuring. To measure length, for example, we must adopt a length that we will call one: one meter, one foot, one mile. We then relate the length we are measuring to that unit. Similarly for measuring time, weight, temperature; whatever we cannot count.
+
+Awhole numberis composed of  distinct, indivisible units.
+
+We are about to see their names.
+
+Wemeasurethings that are not whole numbers, therefore we have fractions and decimals. And so we speak of whole number arithmetic and whole number numeration; it does not include fractions or decimals.
+
+To do arithmetic, the numbers obviously must have names and symbols. As you surely know, the  English names for the whole numbers are  "One, two, three, four" and so on. We call them thecounting-names; sometimes  the counting-numbers.
+
+(They are also  called thenatural numbers. )
+
+The symbols for the counting-numbers -- 1, 2, 3, 4, 5 --  are callednumerals. The student is no doubt familiar with  Roman numerals.  'V' is the Roman numeral for this number:
+
+'5' is theArabic numeral.  For it was the Arab mathematicians who introduced them into Europe from India, where their forms evolved. "Five" is the English word.
+
+0 (zero) is also called a whole number. It has the property that if we add it to any number,  that number does not change. 2 + 0 = 2.
+
+Since it is with those numerals—1, 2, 3, 4—that we do written calculations, it has become common to call the numerals themselves "numbers."  But like any symbol it is not the thing to which it refers. The thing is thenumber.
+
+Children often learn the concepts of arithmetic withmanipulatives, which are actual numbers -- physical units -- such as matchsticks or blocks. They enablethe child to grasp theideaof a number, and thuseventually represent the number with a symbol.
+
+The English name of the first is One.This is its numeral: 1.
+
+The name of the next is Two.  2.
+
+The name of the next is Three.  3.
+
+Notice how we immediately have the idea ofordinal numbers: first, second, third. For that is how we learn the sequence of the names. The next, the next, the next.
+
+Here is the sequence of the first nine counting-names and their numerals:
+
+Starting with Two, we say that each number is "one more" than the previous number. We say that we have "added one" to the previous number.
+
+Thus Five is one more than Four. We have added one to Four to produce Five.
+
+That is the first lesson inaddition. It links thesequenceof the names with theircardinality: how many.
+
+So much for counting. Apart from that, each number is an autonomous whole. Your five fingers did not come about by adding one to four.
+
+Tens.The name of the number one more than Nine is Ten: 10.
+
+Its numeral is 1 followed by 0 (zero).
+
+Let Ten now be theunit.  On counting the Tens, here are their names and their numerals:
+
+To form the numeral for each Ten, we followed each of the firstninenumerals with a 0.
+
+Numbers between two consecutive Tens.To compose the numbers between two consecutive Tens -- between 30 and 40, for example -- successively add the firstninenumbers to the lower Ten.   To write their numerals, successively replace the 0 of the lower Ten with the first nine numbers.
+
+Here are the numbers between 30 and 40:
+
+The numbers between 10 and 20, however, have unique names:
+
+We have now named the numbers 1 through 99, and constructed their numerals.
+
+Hundreds.A collection  oftenTens form the number One Hundred. Its numeral is 100.  Upon letting One Hundred be the unit, we count those Hundreds and name them as follows:
+
+Numbers between two consecutive Hundreds.To compose the numbers between two consecutive Hundreds -- between 300 and 400, for example -- successively add the firstninety-nine numbersto the lower Hundred. To write their numerals, successively replace the two 0's of the lower Hundred with the numerals of the first ninety-nine numbers.
+
+For example:  Three Hundred One (301), Three Hundred Two (302), Three Hundred Three (303), . . . , Three Hundred Ninety-eight (398), Three Hundred Ninety-nine (399).
+
+In this way we name the numbers 100 through 999, and construct their numerals.
+
+We have now then constructed the names and the numerals for all the numbers 1 through 999.  In the next Lesson, we will see  that to name any whole number, however large, it is sufficient to know the names through 999.
+
+Also in the next Lesson we will analyze our system of numeration in terms ofplace value.  And in Lesson 3, we will extend our system todecimals.
+
+The student should begin masteringElementary Additionand theMultiplication Table.
+
+At this point, please "turn" the page and do someProblems.
+
+Continue on to the next Lesson:The Powers of 10
+
+Introduction|Home|Table of Contents
+
+Copyright ©  2021 Lawrence Spector

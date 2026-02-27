@@ -1,6 +1,6 @@
 import requests
 
-url = "https://www.themathpage.com/Arith/intro.htm"
+url = "https://themathpage.com/Arith/numeration.htm"
 html = requests.get(url).text
 
 with open("data/raw_html/lesson_01.html", "w", encoding="utf-8") as f:
